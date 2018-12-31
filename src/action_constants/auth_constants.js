@@ -1,0 +1,5 @@
+export const userConstant = {
+
+	SIGNUP : 'SIGNUP',
+	ACCOUNT_VERIFICATION: 'ACCOUNT_VERIFICATION',
+}
